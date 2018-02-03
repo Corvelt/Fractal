@@ -1,0 +1,16 @@
+﻿  FractalCreator.cpp
+FractalCreator.cpp(28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+FractalCreator.cpp(76): warning C4018: '<': signed/unsigned mismatch
+FractalCreator.cpp(84): warning C4018: '<': signed/unsigned mismatch
+FractalCreator.cpp(126): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+FractalCreator.cpp(127): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+FractalCreator.cpp(128): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Main.cpp
+  Mandelbrot.cpp
+  Generating code
+  8 of 426 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mandelbrot.vcxproj -> C:\Users\Owner\Desktop\C++ Programs\Mandelbrot\Release\Mandelbrot.exe
+  Mandelbrot.vcxproj -> C:\Users\Owner\Desktop\C++ Programs\Mandelbrot\Release\Mandelbrot.pdb (Full PDB)

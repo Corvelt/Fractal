@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\owner\desktop\mandelbrot\mandelbrot\main.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+  Mandelbrot.vcxproj -> C:\Users\Owner\Desktop\Mandelbrot\Debug\Mandelbrot.exe
+  Mandelbrot.vcxproj -> C:\Users\Owner\Desktop\Mandelbrot\Debug\Mandelbrot.pdb (Partial PDB)
